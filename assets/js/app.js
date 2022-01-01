@@ -246,6 +246,9 @@ let footer = $(`
 
     
     </div>
+    <div>
+     <a href="https://icp.gov.moe/?keyword=20221234" target="_blank">萌ICP备20221234号</a>
+    </div>
     </div>
 </footer>
 `);
